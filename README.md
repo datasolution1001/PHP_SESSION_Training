@@ -1,2 +1,2 @@
-# PHP_SESSION_Training
+# PHP_SESSION_TRAINING
 PHP SESSION training 
